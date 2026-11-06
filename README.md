@@ -3,7 +3,7 @@
 > **“好想法不是稀缺品，时间和精力才是。”**
 > *"Good ideas are not scarce; time and energy are."*
 
-这里存放着我因现实原因无法亲自实现的灵感。它们不是完整的商业计划，不是可执行的代码，只是一些**被认真想过的念头**——关于工具、关于系统、关于人与人之间尚未被好好解决的事。
+这里存放着我灵光一现的灵感。它们不是完整的商业计划，不是可执行的代码，只是一些**被认真想过的念头**——关于工具、关于系统、关于人与人之间尚未被好好解决的事。
 *This repository houses inspirations I cannot bring to life myself due to real-world constraints. They are not complete business plans or executable code, but merely **thoughts pondered with care**—about tools, systems, and human interactions that haven't been properly solved yet.*
 
 我大概率不会亲自把它们做出来。但这不代表它们应该被忘掉。
