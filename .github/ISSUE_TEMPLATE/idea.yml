@@ -1,0 +1,55 @@
+name: 💡 点子
+description: 记录一个值得记下来的点子 / 灵感
+title: "[点子] "
+labels: ["idea", "seed"]
+body:
+  - type: textarea
+    id: one-liner
+    attributes:
+      label: 一句话
+      description: 这个点子干什么？一句话说清。
+      placeholder: 例如：把每天的碎片对话自动整理成周报
+    validations:
+      required: true
+
+  - type: textarea
+    id: trigger
+    attributes:
+      label: 触发场景
+      description: 什么时候会觉得"要是有这个就好了"？
+      placeholder: 例如：周五写周报时，翻聊天记录翻了半小时
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-now
+    attributes:
+      label: 为什么现在值得想
+      description: 有什么新条件（模型能力、成本、身边工具）让这件事现在可行？可留空。
+    validations:
+      required: false
+
+  - type: textarea
+    id: initial-idea
+    attributes:
+      label: 初步想法
+      description: 大概怎么做？允许只有一个模糊念头。
+    validations:
+      required: false
+
+  - type: textarea
+    id: next-step
+    attributes:
+      label: 下一步
+      description: 验证这个点子最小的那一步是什么？
+      placeholder: 例如：先手动做一次，看一周能省多少时间
+    validations:
+      required: false
+
+  - type: textarea
+    id: related
+    attributes:
+      label: 同类 / 参考
+      description: 见过的类似产品、文章、讨论链接。
+    validations:
+      required: false
