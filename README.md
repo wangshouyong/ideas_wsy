@@ -20,6 +20,7 @@
 
 - [这里有什么、没有什么 · What's Inside & What's Not](#这里有什么没有什么--whats-inside--whats-not)
 - [如何浏览点子 · How to Browse](#如何浏览点子--how-to-browse)
+- [项目级点子 · In-Depth Ideas](#项目级点子--in-depth-ideas)
 - [如果你想把某个点子做出来 · If You Want to Build One](#如果你想把某个点子做出来--if-you-want-to-build-one)
 - [如何提交你的点子 · How to Submit](#如何提交你的点子--how-to-submit)
 - [点子模板 · Idea Template](#点子模板--idea-template)
@@ -56,6 +57,16 @@
 
 也可以直接打开 **Projects** 看板，按 `seed → exploring → building → parked/dropped` 的状态流转查看全局。
 *You can also open the **Projects** board to see the overall flow: `seed → exploring → building → parked/dropped`.*
+
+---
+
+## 📂 项目级点子 · In-Depth Ideas
+
+大部分点子一句话就够，放在 Issue 里。少数我实在想得太多的，会把完整构想写进 [`ideas/`](ideas/) 目录——**不是承诺，也不是路线图**，只是把脑子里的东西写清楚，让愿意拿走的人少走点弯路。
+*Most ideas are one-liners in Issues. A few I over-thought, so the full write-up lives in [`ideas/`](ideas/) — **not a promise, not a roadmap**, just thinking written down for whoever wants to take it further.*
+
+- **[长河 · 一个“她那一侧也活着”的点子](ideas/长河/README.md)** — 互动叙事：你从 13 岁活到 41 岁，结局时系统把每个 NPC 视角的隐藏人生全部翻出来。附 [内核白皮书](ideas/长河/内核白皮书.md)（三个原语 / 两种验收 / 三种外壳）与 [构想推演](ideas/长河/长河_核心设计文档_V2.1.md)（数值、世界库、判定公式，以及“如果真要做大概多大、哪里会崩”）。
+  *The only one so far. An interactive-narrative idea about a life you live once and only understand at the ending.*
 
 ---
 
@@ -146,6 +157,8 @@
   *No promises. Ideas here do not constitute a commitment to build. `parked` and `dropped` are the norm, not failures.*
 - **公开、安全。** 不放公司 / 客户 / 私密信息，不放密钥、内部截图。提交前自己检查一遍。
   *Public & Safe. No company/customer/private info, no keys or internal screenshots. Double-check before submitting.*
+- **许可 · License。** 代码模板用 MIT；`ideas/` 下的文档与构想用 CC BY-SA 4.0（[LICENSE-DOCS.md](LICENSE-DOCS.md)）。CC BY-SA 法律上要求署名——但说实话，你要真做出来了不署名，我也不会去追。
+  *Code templates: MIT. Documents under `ideas/`: CC BY-SA 4.0. Legally that asks for attribution—but honestly, if you build it and forget to credit me, I'm not coming after you.*
 - **欢迎拿走，欢迎实现，欢迎告诉我。** 署名归提交者，实现归动手的人，开心归所有人。
   *Take it, build it, tell me about it. Credit goes to the submitter, realization goes to the builder, joy goes to everyone.*
 - **点子不保证能够技术实现。** 这里是“想象力的许愿池”，不是“硬核工程招标会”。拥抱超前的脑洞，但拒绝违背科学。这个仓库不承担“技术可行性验证”的责任。允许技术极度超前、允许当前工程无法实现，但拒绝伪科学和反智主义。真正的异想天开，是比时代早走了十年的远见。
