@@ -46,8 +46,8 @@
 
 ## 如何浏览点子 · How to Browse
 
-所有点子都以 **Issue** 的形式存放，点击进入 [Issues](https://github.com/wangshouyong/ideas_wsy/issues) 即可浏览。
-*All ideas are stored as **Issues**. Click into [Issues](https://github.com/wangshouyong/ideas_wsy/issues) to browse.*
+大部分点子以 **Issue** 的形式存放，点击进入 [Issues](https://github.com/wangshouyong/ideas_wsy/issues) 即可浏览；少数写成长文的放在 [`ideas/`](ideas/) 目录（见下方「项目级点子」）。
+*Most ideas are stored as **Issues**. Click into [Issues](https://github.com/wangshouyong/ideas_wsy/issues) to browse. A few long-form ones live in [`ideas/`](ideas/) (see "In-Depth Ideas" below).*
 
 建议按标签筛选 / *Filter by labels:*
 - 想看**马上能上手的小东西** → [`seed`](https://github.com/wangshouyong/ideas_wsy/labels/seed) *(Quick & actionable small projects)*
